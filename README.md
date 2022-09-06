@@ -19,7 +19,7 @@ This repo is a template VS code project for CircuitPython projects that automati
 4. If you get an error about user.name and user.email, see the next section.
 5. Click the "Sync changes" button.
 ### If you get an error about user.name and user.email
-1. Open Git Bash.
+1. Open Git Bash from the Windows Search Bar.
 2. FIlling in your actual information, run the following commands. Spelling must match exactly:
 ```
 git config --global user.name YOURUSERNAME
