@@ -13,7 +13,7 @@ This repo is a template VS code project for CircuitPython projects that automati
 8. Hit "Open Cloned Directory."
 9. Install the reccomended extensions when you get that popup in the lower right corner.
 ### To commit from VS Code:
-1. Go to the little branch icon in the left bar.
+1. Go to the little branch icon in the left bar of VS Code.
 2. Click the + icon next  to the files you want to commit.
 3. Write a message that descibes your changes and hit commit.
 4. If you get an error about user.name and user.email, see the next section.
