@@ -25,3 +25,4 @@ This repo is a template VS code project for CircuitPython projects that automati
 git config --global user.name YOURUSERNAME
 git config --global user.email YOURSCHOOLEMAIL
 ```
+3. Return to step 3 of the previous section.
