@@ -11,7 +11,7 @@ This repo is a template VS code project for CircuitPython projects that automati
 6. Paste in the link to the new repository you've just created from the template and hit enter.
 7. For the location, select the "STUDENT" drive if you have it or the document folder if you don't.
 8. Install the reccomended extensions when you get that popup in the lower right corner.
-### To commit:
+### To commit from VS Code:
 1. Go to the little branch icon in the left bar.
 2. Click the + icon next  to the files you want to commit.
 3. Write a message that descibes your changes and hit commit.
