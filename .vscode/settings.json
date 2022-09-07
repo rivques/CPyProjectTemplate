@@ -6,8 +6,8 @@
     },
     "circuitpython.board.version": null,
     "circuitpython.board.vid": "0x239A",
-    "circuitpython.board.pid": "0x8014",
+    "circuitpython.board.pid": "0x8038",
     "python.analysis.extraPaths": [
-        
+
     ]
 }
