@@ -2,7 +2,7 @@
 Put a description for your project here!
 This repo is a template VS code project for CircuitPython projects that automatically uploads your code to the board when you press F5. Requires F5Anything extension.
 ## What does this do?
-This makes it easirt to develop for boards like 
+This makes it easier to develop for boards like the Adafruit Metro Express and Raspberry Pi Pico by automatically uploading your code to the board's `code.py`. No more worrying about if your latest changes got saved to Git, or switching to a new board and losing all your libraries!
 ## Use
 ### Every new project:
 1. Make a GitHub account if you don't have one with your normal school credentials and sign into it.
